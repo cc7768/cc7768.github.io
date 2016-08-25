@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Chase Coleman</title>
-    <link>cc7768.github.io/home/</link>
+    <link>http://cc7768.github.io/home/</link>
     <description>Recent content in Homes on Chase Coleman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Chase Coleman</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="cc7768.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://cc7768.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>/cc7768.github.io/home/about/</link>
+      <link>http://cc7768.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/cc7768.github.io/home/about/</guid>
+      <guid>http://cc7768.github.io/home/about/</guid>
       <description>
 
 &lt;h1 id=&#34;biography:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Biography&lt;/h1&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>teaching</title>
-      <link>/cc7768.github.io/home/teaching/</link>
+      <link>http://cc7768.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/cc7768.github.io/home/teaching/</guid>
+      <guid>http://cc7768.github.io/home/teaching/</guid>
       <description>&lt;p&gt;Below is a list of all courses that I am teaching (or have previously taught)&lt;/p&gt;
 
 &lt;ul&gt;
