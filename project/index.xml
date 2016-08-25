@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Chase Coleman</title>
-    <link>http://www.chasegcoleman.com/project/</link>
+    <link>cc7768.github.io/project/</link>
     <description>Recent content in Projects on Chase Coleman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Chase Coleman</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.chasegcoleman.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="cc7768.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Quantitative Economics</title>
-      <link>http://www.chasegcoleman.com/project/quantecon/</link>
+      <link>/cc7768.github.io/project/quantecon/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.chasegcoleman.com/project/quantecon/</guid>
+      <guid>/cc7768.github.io/project/quantecon/</guid>
       <description>&lt;p&gt;QuantEcon began as a &lt;a href=&#34;http://www.quant-econ.net&#34;&gt;website&lt;/a&gt; developed by Tom Sargent and John Stachurski oriented around teaching quantitative economic modeling. As time has passed the project has broadened its scope to, not only teaching, but developing open source computational tools for economics, econometrics, and decision making. The project is currently funded by the &lt;a href=&#34;http://www.sloan.org/&#34;&gt;Alfred P. Sloan Foundation&lt;/a&gt; and has non-profit status by being a &lt;a href=&#34;http://www.numfocus.org/&#34;&gt;NUMFOCUS&lt;/a&gt; fiscally sponsored project. QuantEcon is currently guided by a steering committee which consists of: Susan Athey, Daisuke Oyama, Matthew McKay, John Stachurski, and Thomas Sargent.&lt;/p&gt;
 
 &lt;p&gt;For more information on this project you can visit &lt;a href=&#34;http://www.quantecon.org&#34;&gt;QuantEcon&lt;/a&gt;&lt;/p&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>BYU Macro and Computational Laboratory</title>
-      <link>http://www.chasegcoleman.com/project/byumcl/</link>
+      <link>/cc7768.github.io/project/byumcl/</link>
       <pubDate>Mon, 10 Jun 2013 01:14:14 -0400</pubDate>
       
-      <guid>http://www.chasegcoleman.com/project/byumcl/</guid>
+      <guid>/cc7768.github.io/project/byumcl/</guid>
       <description>&lt;p&gt;The BYU Macroeconomics and Computational Laboratory is a collaborative group of undergraduate students and professors at BYU doing research in the field of computational macroeconomics.  We operate under the following set of premises:&lt;/p&gt;
 
 &lt;ul&gt;
