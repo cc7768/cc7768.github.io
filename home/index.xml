@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Chase Coleman</title>
+    <link>http://www.chasegcoleman.com/home/</link>
+    <description>Recent content in Homes on Chase Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Chase Coleman</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.chasegcoleman.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://www.chasegcoleman.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.chasegcoleman.com/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;biography:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Biography&lt;/h1&gt;
+
+&lt;p&gt;I am a PhD Candidate in Economics at NYU&amp;rsquo;s Stern Business School.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>http://www.chasegcoleman.com/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.chasegcoleman.com/home/teaching/</guid>
+      <description>&lt;p&gt;Below is a list of all courses that I am teaching (or have previously taught)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fall 2016&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NYU ECON-GB.2313: &lt;a href=&#34;http://databootcamp.nyuecon.com/&#34;&gt;Data Bootcamp&lt;/a&gt; (MBA)&lt;/li&gt;
+&lt;li&gt;NYU ECON-UB.0232: &lt;a href=&#34;http://databootcamp.nyuecon.com/&#34;&gt;Data Bootcamp&lt;/a&gt; (UG)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Winter 2016&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NYU ECON-GB.2313: &lt;a href=&#34;http://databootcamp.nyuecon.com/&#34;&gt;Data Bootcamp&lt;/a&gt; (MBA)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Below is a list of all courses that I have been a teaching assistant for&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Winter 2015&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NYU ECON-UB.0234: &lt;a href=&#34;https://sites.google.com/site/advancedmacro2014/&#34;&gt;Advanced Topics in Macro: Information Frictions&lt;/a&gt; (UG)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Summer 2013&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BYU ECON.513: &lt;a href=&#34;https://sites.google.com/site/macrocomplab/home&#34;&gt;Macro and Computational Lab&lt;/a&gt; (UG)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Winter 2013&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BYU ECON.381: Intermediate Macro (UG)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
